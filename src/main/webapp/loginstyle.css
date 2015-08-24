@@ -1,0 +1,27 @@
+body{
+    background-image: url("login_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.body_title{
+    color: white;
+    margin-left: 6px;
+}
+
+.form_title{
+    margin-top: 3px;
+}
+.form-content{
+    width: 1000px;
+    height: 500px;
+    margin: 100px auto;
+}
+
+.content{
+    margin: 0px auto;
+    width: 500px;
+    height: 250px;
+    border: 1px solid black;
+    background-color: white;
+}

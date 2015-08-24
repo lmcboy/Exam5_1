@@ -1,0 +1,30 @@
+.top_menu{
+    background-color: #66afe9;
+    width: 100%;
+    height: 45px;
+}
+
+.left_icon{
+    float: left;
+    color: white;
+}
+
+.right_user{
+    float: right;
+}
+
+
+.main{
+    border: 2px solid #d5d5d5;
+    width: 1050px;
+    height: 600px;
+    overflow: auto;
+}
+
+table{
+   background-color: lavender;
+}
+
+.page{
+    float: right;
+}
